@@ -103,8 +103,23 @@ ENAYA is a state-of-the-art healthcare platform designed to revolutionize the me
 
 ---
 
-## Screenshots and Visuals
-(Add detailed screenshots showcasing the dashboard, prescription upload workflow, pharmacy search results, and live chat interface.)
+## Project Evaluation and Documentation
+
+The ENAYA application was developed following a structured evaluation framework detailed in the project gradation book. Key aspects include:
+
+- **Functional Completeness**:
+  - Implementation of core features such as prescription OCR, pharmacy search, and live chat.
+
+- **Code Quality**:
+  - Assessed for adherence to clean coding practices, modularity, and maintainability.
+
+- **User Experience**:
+  - Measured by the intuitiveness of the dashboard and seamless navigation.
+
+- **Scalability and Security**:
+  - Evaluated for data handling efficiency and secure user authentication.
+
+For an in-depth understanding, refer to the [Graduation Book Documentation](https://drive.google.com/drive/folders/11zia_ZNXv6wrkwuAXUYlybnsVL3oSVQP).
 
 ---
 
@@ -120,7 +135,4 @@ ENAYA is a state-of-the-art healthcare platform designed to revolutionize the me
 
 **Author**: Mariam Mohammed Abd El-Twab  
 **GitHub Repository**: [ENAYA](https://github.com/Mariam1341/E-Pharmacy_MERN)
-
-
--demo: https://astounding-selkie-364224.netlify.app/
 
